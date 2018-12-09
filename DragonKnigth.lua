@@ -1,3 +1,5 @@
+local Utility = require("Utility")
+
 local Dragon = {}
 
 optionEnableScript = Menu.AddOption({"Hero by Rasta", "Dragon Knight"}, "1.Enable", "Turn on/off this script.")
